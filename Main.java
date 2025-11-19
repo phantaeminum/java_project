@@ -248,7 +248,7 @@ public class Main extends Application {
                 }
 
                 Serving serving = new Serving(
-                    volunteerComboBox.getValue().getId(),
+                   ,
                     mealComboBox.getValue().getId(),
                     datePicker.getValue(),
                     countSpinner.getValue()
